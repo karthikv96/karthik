@@ -1,1 +1,2 @@
-there is the fisrt line 
+there is the fisrt line
+this is the second line after commit
